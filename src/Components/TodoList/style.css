@@ -1,0 +1,47 @@
+.todo {
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 10px 10px gray;
+  padding: 30px;
+}
+.todo h2 {
+  font-size: xx-large;
+  text-decoration: underline;
+}
+.todo input {
+  height: 25px;
+  width: 220px;
+}
+.todo button {
+  margin-top: 25px;
+  height: 30px;
+  width: 80px;
+  border-radius: 3px;
+  cursor: pointer;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+.todo button:hover {
+  background-color: orange;
+}
+.todo p {
+  text-decoration: underline;
+  font-size: larger;
+}
+.list {
+  text-decoration: underline;
+  text-align: center;
+
+  margin-left: 50px;
+}
+.listValues {
+  font-size: 20px;
+  margin-left: 40px;
+}
+.HIGH {
+  margin-top: 13px;
+  width: 460px;
+  margin-left: 100px;
+  box-shadow: 5px 5px 10px 10px red;
+}
